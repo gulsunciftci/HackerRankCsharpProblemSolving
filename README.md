@@ -2,9 +2,6 @@
 
 1. Simple Array Sum
 
-![alt text](image-2.png)
-
-
 ```C#
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
@@ -65,10 +62,6 @@ class Solution
 
 ```
 2. Compare the Triplets
-
-![alt text](image-3.png)
-
-![alt text](image-4.png)
 
 
 ```C#
@@ -139,8 +132,6 @@ class Solution
 
 3. A Very Big Sum
 
-![alt text](image-5.png)
-
 
 ```C#
 using System.CodeDom.Compiler;
@@ -200,8 +191,6 @@ class Solution
 
 4. Diagonal Difference
 
-![alt text](image-6.png)
-![alt text](image-7.png)
 
 ```C#
 using System.CodeDom.Compiler;
@@ -261,9 +250,6 @@ class Solution
 ```
 
 5. Plus Minus
-
-![alt text](image-8.png)
-![alt text](image-9.png)
 
 
 ```C#
@@ -333,10 +319,6 @@ class Solution
 
 6. Staircase
 
-![alt text](image-10.png)
-![alt text](image-11.png)
-
-
 ```C#
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
@@ -396,8 +378,7 @@ class Solution
 ```
 
 7. Mini-Max Sum
-![alt text](image-12.png)
-![alt text](image-13.png)
+
 
 ```c#
 
@@ -458,7 +439,7 @@ class Solution
 ```
 
 8. Birthday Cake Candles
-![alt text](image-14.png)
+
 ```C#
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
@@ -529,10 +510,6 @@ class Solution
 ```
 
 9. Grading Students
-
-![alt text](image-16.png)
-![alt text](image-17.png)
-![alt text](image-18.png)
 
 
 ```C#
@@ -609,10 +586,6 @@ class Solution
 ```
 
 10. Apple and Orange
-
-![alt text](image-19.png)
-![alt text](image-20.png)
-![alt text](image-21.png)
 
 
 ```C#
@@ -703,10 +676,6 @@ class Solution
 ```
 
 11. Number Line Jumps
-
-![alt text](image-22.png)
-![alt text](image-23.png)
-![alt text](image-24.png)
 
 
 ```C#
